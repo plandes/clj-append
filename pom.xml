@@ -23,7 +23,7 @@ ZSCAL.  If not, see http://www.gnu.org/licenses/.
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.zensols</groupId>
     <artifactId>clj-append</artifactId>
-    <version>1.0.5</version>
+    <version>1.1.0</version>
     <packaging>jar</packaging>
     <name>Clojure Log4j2 Appender</name>
     <description>Log4j2 Logger that appends using print and println.</description>
